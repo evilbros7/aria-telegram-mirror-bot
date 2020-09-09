@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1312135143:AAEpx17XIeiRloVnxl4i4v9BRnE15o5ubns',
+  TOKEN: '1247545209:AAEDS1I_I79yPQQZxXNYdHrT6wObuNgtQ3g',
   ARIA_SECRET: 'pronoob',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@Moviesjsbot"
+    NAME: "@Mirrorjsbot"
   },
   IS_TEAM_DRIVE: true,
   INDEX_DOMAIN: "https://my.cloud11.workers.dev/" // add an extra / at the end, for example https://www.gdindex.url/
